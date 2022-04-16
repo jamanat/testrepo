@@ -1,3 +1,4 @@
 code
 Change line 2
-Added line 3
+Added line 3.
+Line 4 added.
